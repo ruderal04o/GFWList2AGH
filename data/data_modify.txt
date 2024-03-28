@@ -114,6 +114,9 @@
 # colamanga
 (@@@)colamanga.com
 
+# mhgui.com
+(@@@)mhgui.com
+
 # wnacg
 (@@@)wnacg.com
 (@@@)qy0.ru

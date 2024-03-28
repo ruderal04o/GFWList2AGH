@@ -112,11 +112,11 @@
 (@%!)www.bing.com
 
 # colamanga
-(!&@)colamanga.com
+(@%@)colamanga.com
 
 # wnacg
-(!&@)wnacg.com
-(!&@)qy0.ru
+(@%@)wnacg.com
+(@%@)qy0.ru
 
 # Cloudflare
 (@&!)1dot1dot1dot1.cloudflare-dns.com

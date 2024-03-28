@@ -111,6 +111,13 @@
 (@%!)cn.bing.net
 (@%!)www.bing.com
 
+# colamanga
+colamanga.com
+
+# wnacg
+wnacg.com
+qy0.ru
+
 # Cloudflare
 (@&!)1dot1dot1dot1.cloudflare-dns.com
 (@&!)cloudflare-dns.com

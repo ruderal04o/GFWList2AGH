@@ -102,6 +102,7 @@
 (@%!)www.apple.com.cn
 (@%!)www.icloud.com
 (@%!)push-apple.com.akadns.net
+(@%!)apple.com.akadns.net
 
 # 阿里云
 (@%!)alibabadns.com

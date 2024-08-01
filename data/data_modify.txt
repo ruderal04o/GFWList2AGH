@@ -70,7 +70,7 @@
 (@&!)office.net
 (@&!)keydelivery.mediaservices.windows.net
 (@&!)lync.com
-(@&!)teams.microsoft.com
+(@&!)microsoft.com
 (@&!)streaming.mediaservices.windows.net
 (@&!)mlccdn.blob.core.windows.net
 (@&!)aka.ms
@@ -79,7 +79,6 @@
 (@&!)secure.skypeassets.com
 (@&!)mlccdnprod.azureedge.net
 (@&!)skype.com
-(@&!)compass-ssl.microsoft.com
 (@&!)office.com
 
 # AniDB

@@ -66,6 +66,21 @@
 (@&!)share.acgnx.se
 (@&!)www.acgnx.se
 
+#teams
+(@&!)office.net
+(@&!)keydelivery.mediaservices.windows.net
+(@&!)lync.com
+(@&!)teams.microsoft.com
+(@&!)streaming.mediaservices.windows.net
+(@&!)mlccdn.blob.core.windows.net
+(@&!)aka.ms
+(@&!)users.storage.live.com
+(@&!)adl.windows.com
+(@&!)secure.skypeassets.com
+(@&!)mlccdnprod.azureedge.net
+(@&!)skype.com
+(@&!)compass-ssl.microsoft.com
+
 # AniDB
 (@&!)anidb.net
 

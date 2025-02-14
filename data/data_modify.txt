@@ -156,6 +156,9 @@
 (@%!)doh.pub
 (@%!)dot.pub
 
+# org.cn
+(@%!)org.cn
+
 # Denpasoft
 (@&!)denpasoft.com
 
@@ -231,5 +234,6 @@
 
 # 治杰 Online
 (@&!)zhijie.online
+
 
 ## 自定义规则 - 结束

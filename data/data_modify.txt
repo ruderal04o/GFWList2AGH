@@ -59,7 +59,7 @@
 ## 自定义规则 - 开始
 
 # COM.CN
-(*&*)com.cn
+(*&*)cn
 
 # AcgnX
 (@&!)share.acgnx.net

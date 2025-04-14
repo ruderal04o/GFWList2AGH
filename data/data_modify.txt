@@ -81,7 +81,7 @@
 (@&!)skype.com
 (@&!)office.com
 
-#teams
+#wnacg
 (@&!)wzip.download
 (@&!)wzip.date
 

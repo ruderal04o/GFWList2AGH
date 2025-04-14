@@ -81,6 +81,10 @@
 (@&!)skype.com
 (@&!)office.com
 
+#teams
+(@&!)wzip.download
+(@&!)wzip.date
+
 # AniDB
 (@&!)anidb.net
 

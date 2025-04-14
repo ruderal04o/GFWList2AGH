@@ -11,25 +11,25 @@
 # (@@@) | 向 China 及 GFW 列表添加域名
 (@@@)example.org
 
-# (!!!) | 向 China  及 GFW 列表移除域名
+# (!!!) | 向 China 及 GFW 列表移除域名
 (!!!)example.org
 
-# (***) | 向 China  及 GFW 列表排除域名 (*.example.org & example.org)
+# (***) | 向 China 及 GFW 列表排除域名 (*.example.org & example.org)
 (***)example.org
 
-# (!**) | 向 China  及 GFW 列表排除关键词 (*example.org*)
+# (!**) | 向 China 及 GFW 列表排除关键词 (*example.org*)
 (!**)example.org
 
-# (@%@) | 仅向 China  列表添加域名
+# (@%@) | 仅向 China 列表添加域名
 (@%@)example.org
 
-# (!%!) | 仅向 China  列表移除域名
+# (!%!) | 仅向 China 列表移除域名
 (!%!)example.org
 
-# (*%*) | 仅向 China  列表排除域名 (*.example.org & example.org)
+# (*%*) | 仅向 China 列表排除域名 (*.example.org & example.org)
 (*%*)example.org
 
-# (!%*) | 仅向 China  列表排除关键词 (*example.org*)
+# (!%*) | 仅向 China 列表排除关键词 (*example.org*)
 (!%*)example.org
 
 # (@&@) | 仅向 GFW 列表添加域名
@@ -61,7 +61,7 @@
 ## 自定义规则 - 开始
 
 # COM.CN
-(*&*)com.cn
+(!&@)com.cn
 
 # AcgnX
 (@&!)share.acgnx.net

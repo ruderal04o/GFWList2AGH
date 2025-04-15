@@ -61,7 +61,7 @@
 ## 自定义规则 - 开始
 
 # CN
-(***)cn
+(***).cn
 
 # AcgnX
 (@&!)share.acgnx.net

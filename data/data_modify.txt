@@ -62,6 +62,7 @@
 
 # COM.CN
 (*&*)com.cn
+(*&*).cn
 
 # AcgnX
 (@&!)share.acgnx.net
